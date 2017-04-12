@@ -1,11 +1,12 @@
 # DuBluetooth
 
-## 代码示例
+## Descript
 
 Please see --
-	If you have any other questions, please check here.<a href="http://blog.csdn.net/djy1992/article/details/10144843" target="_blank">   Android 蓝牙开发(整理大全) </a>
+
+	* If you have any other questions, please check here.<a href="http://blog.csdn.net/djy1992/article/details/10144843" target="_top">   Android 蓝牙开发(整理大全) </a>
 	
-## 版本 
+## Version
       
     - V1.0.0 
 	
@@ -15,13 +16,13 @@ Please see --
 	
 		-- 代码测试使用
    
-## 代码示例
+## Code
 
 Please see   
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java' target="_blank"> MainActivity</a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java' target="_blank"> SettingActivity </a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java' target="_blank"> SearchActivity </a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java' target="_blank"> ComminuteActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java' target="_top"> MainActivity</a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java' target="_top"> SettingActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java' target="_top"> SearchActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java' target="_top"> ComminuteActivity </a><br/>
 
 	MainActivity ->  onActivityResult .
 ```java
