@@ -4,6 +4,9 @@
 	
 	If you have any other questions, please check here.<a href="http://blog.csdn.net/djy1992/article/details/10144843"> <font color="red">[置顶]</font>Android 蓝牙开发(整理大全) </a>
 	
+	
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'> MainActivity</a><br/>
+	
 ## 版本 
       
     - V1.0.0 
