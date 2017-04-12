@@ -17,12 +17,11 @@
    
 ## ´úÂëÊ¾Àý
 
-Please see  
-
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'>MainActivity</a>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java'>SettingActivity</a>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java'>SearchActivity</a>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java'>ComminuteActivity</a>
+Please see   
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'> MainActivity</a>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java'> SettingActivity </a>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java'> SearchActivity </a>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java'> ComminuteActivity </a>
 
 	MainActivity ->  onActivityResult .
 ```java
