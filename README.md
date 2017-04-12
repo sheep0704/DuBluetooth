@@ -1,14 +1,23 @@
 # DuBluetooth
 
 ## 功能描述 
-
-   蓝牙开关--智能模块
+	
+	<a href='http://blog.csdn.net/djy1992/article/details/10144843'> Android 蓝牙开发资料大全【新】</a>
+   
 
 ## 版本 
+      
+    - V1.0.0 
+	
+		-- 根据别人修改的一个版本 --  给大家作为参考学习使用
+	
+	- V0.0.9
+	
+		-- 代码测试使用
    
-    - ** V1.0.0 根据别人修改的一个版本 --  给大家作为参考学习使用
-   
-## Api
+## 代码示例
+
+Please see <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'>MainActivity</a>
 
 ```java
 	 //返回消息处理
@@ -74,15 +83,15 @@
     }
 
 ```
-   
+
     
 
 ## Bugs and Feedback 
 ### For bugs, questions and discussions please use the Github Issues.
-### Home.<a href='https://github.com/sheep0704/'>https://github.com/sheep0704</a>
+### Home: <a href='https://github.com/sheep0704/'>https://github.com/sheep0704</a>
 
 
-##LICENSE 
+## LICENSE 
 Copyright (c) 2016-present, DuBluetooth Contributors. Author Immqy.com .
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
