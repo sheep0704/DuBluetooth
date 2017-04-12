@@ -75,17 +75,14 @@
 
 ```
    
-   
-<hr/>
+    
 
-##Bugs and Feedback
-<hr/>
+## Bugs and Feedback 
 ### For bugs, questions and discussions please use the Github Issues.
 ### Home.<a href='https://github.com/sheep0704/'>https://github.com/sheep0704</a>
 
 
-##LICENSE
-<hr/>
+##LICENSE 
 Copyright (c) 2016-present, DuBluetooth Contributors. Author Immqy.com .
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
