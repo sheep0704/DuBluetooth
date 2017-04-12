@@ -1,11 +1,12 @@
 # DuBluetooth
 
-## 功能描述  
-	
-	If you have any other questions, please check here.<a href="http://blog.csdn.net/djy1992/article/details/10144843"> <font color="red">[置顶]</font>Android 蓝牙开发(整理大全) </a>
-	
-	
+## 代码示例
+
+Please see   
 	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'> MainActivity</a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java'> SettingActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java'> SearchActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java'> ComminuteActivity </a><br/>
 	
 ## 版本 
       
