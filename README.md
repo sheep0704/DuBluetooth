@@ -1,8 +1,8 @@
 # DuBluetooth
 
 ## 功能描述 
-	
-	<a href='http://blog.csdn.net/djy1992/article/details/10144843'> Android 蓝牙开发资料大全【新】</a>
+
+	If you have any other questions, please check here. 	<a href='http://blog.csdn.net/djy1992/article/details/10144843'> Android 蓝牙开发资料大全【新】</a>
    
 
 ## 版本 
@@ -17,8 +17,14 @@
    
 ## 代码示例
 
-Please see <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'>MainActivity</a>
+Please see  
 
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'>MainActivity</a>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java'>SettingActivity</a>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java'>SearchActivity</a>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java'>ComminuteActivity</a>
+
+	MainActivity ->  onActivityResult .
 ```java
 	 //返回消息处理
     @Override
@@ -40,6 +46,7 @@ Please see <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetoo
     }
 ```   
 
+	MainActivity ->   BluetoothDevice.
 ```java
  if (BluetoothDevice.ACTION_FOUND.equals(action)) {
                 BluetoothDevice receiverDevice = intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE);
@@ -72,6 +79,7 @@ Please see <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetoo
         }
 ```
    
+	MainActivity ->   receiveDevice.
    
 ```java
 	//查看
@@ -80,8 +88,7 @@ Please see <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetoo
         IntentFilter filter = new IntentFilter(BluetoothDevice.ACTION_FOUND);
         receiver = new BluetoothReceiver();
         registerReceiver(receiver, filter);
-    }
-
+	} 
 ```
 
     
