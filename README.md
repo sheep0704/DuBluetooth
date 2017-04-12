@@ -2,12 +2,8 @@
 
 ## 代码示例
 
-Please see   
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'> MainActivity</a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java'> SettingActivity </a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java'> SearchActivity </a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java'> ComminuteActivity </a><br/>
-	If you have any other questions, please check here.<a href="http://blog.csdn.net/djy1992/article/details/10144843"> <font color="red">[置顶]</font>Android 蓝牙开发(整理大全) </a>
+Please see --
+	If you have any other questions, please check here.<a href="http://blog.csdn.net/djy1992/article/details/10144843" target="_blank">   Android 蓝牙开发(整理大全) </a>
 	
 ## 版本 
       
@@ -22,10 +18,10 @@ Please see
 ## 代码示例
 
 Please see   
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'> MainActivity</a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java'> SettingActivity </a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java'> SearchActivity </a><br/>
-	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java'> ComminuteActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java' target="_blank"> MainActivity</a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SettingActivity.java' target="_blank"> SettingActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/SearchActivity.java' target="_blank"> SearchActivity </a><br/>
+	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/ComminuteActivity.java' target="_blank"> ComminuteActivity </a><br/>
 
 	MainActivity ->  onActivityResult .
 ```java
@@ -98,7 +94,7 @@ Please see
 
 ## Bugs and Feedback 
 ### For bugs, questions and discussions please use the Github Issues.
-### Home: <a href='https://github.com/sheep0704/'>https://github.com/sheep0704</a>
+### Home: <a href='https://github.com/sheep0704/' target="_blank">https://github.com/sheep0704</a>
 
 
 ## LICENSE 
