@@ -1,20 +1,20 @@
 # DuBluetooth
 
-## ¹¦ÄÜÃèÊö  
+## åŠŸèƒ½æè¿°  
 	
-	* <a href='http://blog.csdn.net/djy1992/article/details/10144843'> Android À¶ÑÀ¿ª·¢×ÊÁÏ´óÈ«¡¾ĞÂ¡¿</a><br/>
+	If you have any other questions, please check here.<a href="http://blog.csdn.net/djy1992/article/details/10144843"> <font color="red">[ç½®é¡¶]</font>Android è“ç‰™å¼€å‘(æ•´ç†å¤§å…¨) </a>
 	
-## °æ±¾ 
+## ç‰ˆæœ¬ 
       
     - V1.0.0 
 	
-		-- ¸ù¾İ±ğÈËĞŞ¸ÄµÄÒ»¸ö°æ±¾ --  ¸ø´ó¼Ò×÷Îª²Î¿¼Ñ§Ï°Ê¹ÓÃ
+		-- æ ¹æ®åˆ«äººä¿®æ”¹çš„ä¸€ä¸ªç‰ˆæœ¬ --  ç»™å¤§å®¶ä½œä¸ºå‚è€ƒå­¦ä¹ ä½¿ç”¨
 	
 	- V0.0.9
 	
-		-- ´úÂë²âÊÔÊ¹ÓÃ
+		-- ä»£ç æµ‹è¯•ä½¿ç”¨
    
-## ´úÂëÊ¾Àı
+## ä»£ç ç¤ºä¾‹
 
 Please see   
 	* <a href='https://github.com/sheep0704/DuBluetooth/blob/master/Bluetooth/src/com/immqy/MainActivity.java'> MainActivity</a><br/>
@@ -24,7 +24,7 @@ Please see
 
 	MainActivity ->  onActivityResult .
 ```java
-	 //·µ»ØÏûÏ¢´¦Àí
+	 //è¿”å›æ¶ˆæ¯å¤„ç†
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (resultCode == RESULT_OK) {
@@ -80,7 +80,7 @@ Please see
 	MainActivity ->   receiveDevice.
    
 ```java
-	//²é¿´
+	//æŸ¥çœ‹
 	private void receiveDevice() {
         bluetoothAdapter.startDiscovery();
         IntentFilter filter = new IntentFilter(BluetoothDevice.ACTION_FOUND);
