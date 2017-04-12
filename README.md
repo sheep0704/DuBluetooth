@@ -2,8 +2,8 @@
 
 ## 功能描述 
 
-	If you have any other questions, please check here.  
-	* <a href='http://blog.csdn.net/djy1992/article/details/10144843'> Android 蓝牙开发资料大全【新】</a><br/>
+	If you have any other questions, please check here.
+	* <a href='http://blog.csdn.net/djy1992/article/details/10144843'>Android 蓝牙开发资料大全</a><br/>
    
 
 ## 版本 
